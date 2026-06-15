@@ -1,0 +1,11 @@
+<resources>
+    <style name="TitleStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="SubtitleStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/primary_purple</item>
+    </style>
+</resources>
